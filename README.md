@@ -1,16 +1,34 @@
-### Hi there 👋
+# Hello, World! 👋 I'm Shalaka Deshan
 
-<!--
-**shalaka-deshan0110/shalaka-deshan0110** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm currently diving into the fascinating world of **Machine Learning** and **Artificial Intelligence**. I'm passionate about learning and implementing my knowledge in real-world scenarios. I'm also exploring **Laravel** and its ecosystem.
 
-Here are some ideas to get you started:
+## 🚀 About Me
+I'm a student who is curious about the tech world and also an experience software engineer having various domain knowledge. I love to solve problems and create innovative solutions. I believe in the power of programming to transform and improve the lives of people around the world.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠 Skills
+- Machine Learning
+- Artificial Intelligence
+- Laravel
+- Codeigniter
+- PHP
+- Python
+- JavaScript
+- React
+- Angular
+- Geospatial Data Visualization
+
+## 🌱 I’m currently learning 
+- Advanced Machine Learning algorithms
+- Deep Learning
+- LLM
+- Laravel's in-depth features
+- Python ( KeplerGL ) data visualization
+
+## 💻 Projects
+Coming soon...
+
+## 📫 How to reach me
+You can reach me at [salu86er@gmail.com](mailto:salu86er@gmail.com) or +971526455881
+
+## ⚡ Fun fact
+I love to read books and play chess in my free time.
