@@ -6,11 +6,11 @@ I'm currently diving into the fascinating world of **Machine Learning** and **Ar
 I'm a student who is curious about the tech world and also an experience software engineer having various domain knowledge. I love to solve problems and create innovative solutions. I believe in the power of programming to transform and improve the lives of people around the world.
 
 ## 🛠 Skills
-- Laravel      JavaScript
-- Codeigniter  React
-- PHP          Angular
-- Python       Geospatial Data Visualization
-- C            MySql
+- Laravel      &emsp;&emsp;&emsp; JavaScript
+- Codeigniter  &emsp; React
+- PHP          &nbsp;&emsp;&emsp;&emsp;&emsp; Angular
+- Python       &emsp;&emsp;&emsp; Geospatial Data Visualization
+- C            &ensp;&emsp;&emsp;&emsp;&emsp;&emsp; MySql
 - C++
 
 ## 🌱 I’m currently learning 
